@@ -1,4 +1,4 @@
-Setup .env file
+1.Setup .env file
 
 MONGO_URI=your_mongo_uri
 PORT=5000
@@ -8,12 +8,11 @@ NODE_ENV=development
 MAILTRAP_TOKEN=your_mailtrap_token
 
 
-Run this app locally
+2.Run this app locally
 
 npm run build
 
 
-Start the app
-
+3.Start the app
 
 npm run start
